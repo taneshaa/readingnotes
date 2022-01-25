@@ -8,3 +8,4 @@ GitHub is a global platform that people in dozens of different fields can utiliz
 2. Markdown Basic Syntax
 
 Markdown has different ways people can make lists, codes, HTML, links..etc. You can add headings with different size texts using a "#" symbol. It teaches you basic steps that you can take to help build your website in GitHub. You'll also be able to add images, bullet points, and numbered lists.
+
