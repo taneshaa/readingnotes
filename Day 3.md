@@ -33,7 +33,7 @@ Let sign= prompt (“insert question”);
 
 
 
-***Start in index html
+Start in index html
 Make js folder, js file
 Link in html
 Give script source for js file
