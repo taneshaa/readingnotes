@@ -1,11 +1,9 @@
-# Intro to Code Day 1
-## What I learned today
+# Table of Contents
 
-1. GitHub
-
-GitHub is a global platform that people in dozens of different fields can utilize. You can build private or public websites, or collaborate with a thousands of people on projects. It's an essential tool to use if you're just starting out, or even if you're advanced level in your profession. 
-
-2. Markdown Basic Syntax
-
-Markdown has different ways people can make lists, codes, HTML, links..etc. You can add headings with different size texts using a "#" symbol. It teaches you basic steps that you can take to help build your website in GitHub. You'll also be able to add images, bullet points, and numbered lists.
-
+## Class Code 201 Notes
+[Class 01 Reading notes](code-201/class-01.md) <br>
+[Class 02 Reading notes](code-201/class-02.md) <br>
+[Class 03 Reading notes](code-201/class-03.md) <br>
+[Class 04 Reading notes](code-201/class-04.md) <br>
+[Class 05 Reading notes](code-201/class-05.md) <br>
+[Class 06 Reading notes](code-201/class-06.md) <br>
