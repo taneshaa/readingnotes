@@ -1,5 +1,5 @@
-## Headings and Paragraphs <br>
-*all will be in <> <br>
+# Headings, Paragraphs & other HTML Format<br>
+all will be in <> <br>
 h1 main heading - largest <br>
 h2 subheading <br>
 h3 <br>
@@ -15,7 +15,7 @@ hr break between themes- empty elements <br>
 sup is used for things like dates and math <br>
 sub commonly used for foot notes or chemical formlas like H20 <br>
 
-# White space: extra spacing while writing code <br>
+White space: extra spacing while writing code<br>
 
 # Bold, italic, emphasis <br>
   
