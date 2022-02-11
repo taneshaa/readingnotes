@@ -6,10 +6,11 @@
 
 # HTML Chapter 1: “Structure” (pp.12-39) <br>
 
-Structural and semantic markup <br>
-Structural markup:Use to describe heading and paragraphs <br>
-Semantic markup: Gives extra info like sentence placement, meaning of acronyms..etc <br>
-  
+Structural and word documents <br>
+HTML: the structure of pages using elements<br>
+-You need opening and closing tags for all elements <br>
+Attriubes: Give us more info about elements <br>
+-Need elements such as body, head, title..etc
 
 
 # HTML Chapter 8: “Extra Markup” (p.176-199) <br>
