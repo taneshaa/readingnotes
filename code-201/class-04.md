@@ -17,13 +17,12 @@ Creating links between pages, linking to other sites, email links <bv>
 - Method: Same as a function but created inside (and part of) an object <bv>
 - Objects: Made up of properties and methods <bv>
 - Function: To declare give it a name and specific task (ex function sayHello) <bv>
-- <bv>
-- <bv>
-- <bv>
-- <bv>
   
-# Article Reading:
-- <bv>
-- <bv>
-- <bv>
-- <bv>
+# Article Reading: 6 Reasons for Pair Programming:
+- How does it work? <bv>
+- Greater effciency: "Two people work faster than one" principal. It helps reduce the time it takes to finish/review/edit a project <bv>
+- Engaged collaboration: Two people working on code together is more engaging. Theres more accountability and you have a better idea of when to ask for help.<bv>
+- Learning from fellow students: Provides more exposure to coding and learning styles<bv>
+- Social skills: Communication is key. Having more exposure to more people allows you to develop better social skills<bv>
+- Job interview readiness: Job interviews might use paired programming. It's important to demonstrate your ability to work with others and demonstrate your technical, communicatio, and collaboritive skills.<bv>
+- Work enviornment readiness: Some companies use paired programming for training new hires <bv>
