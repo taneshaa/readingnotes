@@ -46,5 +46,15 @@ HTML uses escape characters <br>
 - Using design to send a message to the audiance <br>
 
 # Duckett JS book:
-Introduction <br>
+Introduction: What is JavaScript? How do copmuters work with the world around them? How to write web page script? <br>
 JS Chapter 1: “The ABC of Programming” (pp.11-52) <br>
+- Script: instructions for the computer to follow <br>
+- Script writing: Define a goal, design the script (tasks, steps --> code), code each step<br>
+- Objects (things) Properties (characteristics) <br>
+- Computers use real world data to create models of real world things <br>
+- Web browser: Program built using objects <br>
+- Document object represents an HTML page<br>
+- How a browser sees a web page: Recieve a page as HTML, create a model of the page and store it in memory, use a rendering engine to sho the page on screen<br>
+- HTML, CSS, and JS: Work together to create full website <br>
+
+
