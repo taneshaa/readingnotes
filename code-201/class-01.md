@@ -11,6 +11,8 @@ p is for paragraph! <br>
 b is for bold! <br>
 i is for italic <br>
 br line break <br>
+link adding a link such as css or js <br>
+style adding specified styling to HTML
 hr break between themes- empty elements <br>
 sup is used for things like dates and math <br>
 sub commonly used for foot notes or chemical formlas like H20 <br>
@@ -33,3 +35,17 @@ Semantic markup: Gives extra info like sentence placement, meaning of acronyms..
 # Summary <br>
 HTML- describe page structure and provide semantic information
   
+
+
+# CSS: What, how, Rules, Properties & Values: <br>
+Selector: which element the rule applies to <br>
+Declarations: how elements in selector should be styled <br>
+-Made of two parts called property and a value <br>
+-Can sit in curly brackets <br>
+-Can specify multiple properties <br>
+
+Properties: Element changes like color, font, height, border..etc <br>
+Values: Specify chosen property settings (coloring text..etc) <br>
+
+
+
