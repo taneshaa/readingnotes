@@ -31,19 +31,19 @@ HTML uses escape characters <br>
 - header and footer appears on the top and bottom of every site and is needed in HTML <br>
 - article contains primary content <br>
 - aside decides if article belongs in the element or not <br>
-- section groups related contect together<br>
-- hgroup groups headings together<br>
+- section groups related contect together <br>
+- hgroup groups headings together <br>
+- Contains content refereneced in the main flow <br>
+- HTML5 lets authors place (a) element around a block element
 
 # HTML Chapter 18: “Process & Design” (pp.452-475) <br>
--
--
--
--
-
-# Summary <br>
-Structure- HTML are text document pages that use tags (elements) that come in opening and closing pairs. Attributes require name and value. <br>
-Extra Markup- You can use differet elements (tags) in HTML to structure your website. <br>
-
+- Find target audiance <br>
+- What info visitors need <br>
+- Site traffic <br>
+- Reason for site visit <br>
+- Site mapping <br>
+- Wireframe <br>
+- Using design to send a message to the audiance <br>
 
 # Duckett JS book:
 Introduction <br>
