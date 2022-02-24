@@ -4,6 +4,7 @@
 - <br>
 - <br>
 - <br>
+# https://learn.shayhowe.com/advanced-html-css/transitions-animations/<br>
 - background<br>
 colorbackground<br>
 positionborder<br>
@@ -30,6 +31,8 @@ shadowtopvertical<br>
 alignvisibilitywidth<br>
 word-spacing<br>
 z-index<br>
+
+# https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users
 syntax for transform property:<br>
 div {<br>
   -webkit-transform: scale(1.5); <br>
