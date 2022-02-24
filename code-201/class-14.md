@@ -1,9 +1,6 @@
-# CSS TRANSFORMS: <br>
-- <br>
-- <br>
-- <br>
-- <br>
-- <br>
+# CSS TRANSFORMS:https://learn.shayhowe.com/advanced-html-css/css-transforms/ <br>
+- come sin 2D and 3D, both with their own individual properties and values<br>
+
 # https://learn.shayhowe.com/advanced-html-css/transitions-animations/<br>
 - background<br>
 colorbackground<br>
