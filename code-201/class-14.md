@@ -4,7 +4,32 @@
 - <br>
 - <br>
 - <br>
-- <br>
+- background<br>
+colorbackground<br>
+positionborder<br>
+colorborder<br>
+widthborder<br>
+spacingbottom<br>
+clipcolor<br>
+cropfont<br>
+sizefont<br>
+weightheight<br>
+leftletter<br>
+spacingline<br>
+heightmarginmax<br>
+heightmax<br>
+widthmin<br>
+heightmin<br>
+widthopacity<br>
+outline<br>
+coloroutline<br>
+offsetoutline<br>
+widthpaddingrighttext<br>
+indenttext<br>
+shadowtopvertical<br>
+alignvisibilitywidth<br>
+word-spacing<br>
+z-index<br>
 syntax for transform property:<br>
 div {<br>
   -webkit-transform: scale(1.5); <br>
